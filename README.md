@@ -36,5 +36,8 @@ This project analyzes pizza sales data using SQL for data cleaning and querying,
 4. Created pivot tables
 5. Built interactive dashboard
 
+## Business Impact
+This dashboard helps in identifying sales trends and improving decision-making for product strategy.   
+
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
