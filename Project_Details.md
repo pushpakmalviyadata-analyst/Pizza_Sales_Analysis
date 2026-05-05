@@ -45,3 +45,6 @@ Final interactive dashboard combining all KPIs and visuals
 - Peak hours: 12–1 PM and 5–8 PM
 - Classic category contributes highest sales
 - Large size pizzas generate maximum revenue
+
+## Conclusion
+The project demonstrates how SQL and Excel can be used together for business analysis.  
