@@ -41,3 +41,6 @@ This dashboard helps in identifying sales trends and improving decision-making f
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
+## SQL Analysis
+All SQL queries used for data cleaning and analysis are available in queries.sql
