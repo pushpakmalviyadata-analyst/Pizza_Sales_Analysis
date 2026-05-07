@@ -42,5 +42,15 @@ This dashboard helps in identifying sales trends and improving decision-making f
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
 
+# KPI Section
+![KPI Section] (KPI_Section.png)
+
+# Sales Trends
+![Sales Trends] (Sales_Trends.png)
+
+# Top & Worst PIzzas
+![Top & Worst Pizzas]
+(Top_Worst_Pizzas.png)
+
 ## SQL Analysis
 All SQL queries used for data cleaning and analysis are available in queries.sql
