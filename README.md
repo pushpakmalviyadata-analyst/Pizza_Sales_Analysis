@@ -40,7 +40,7 @@ This project analyzes pizza sales data using SQL for data cleaning and querying,
 This dashboard helps in identifying sales trends and improving decision-making for product strategy.   
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Pizza_Sales_dashboard.png)
 
 # KPI Section
 ![KPI Section](KPI_Section.png)
