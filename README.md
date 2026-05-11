@@ -53,3 +53,8 @@ This dashboard helps in identifying sales trends and improving decision-making f
 
 ## SQL Analysis
 All SQL queries used for data cleaning and analysis are available in queries.sql
+
+## Key Business Insights
+
+Detailed insights are available in:
+Business_insights.md
