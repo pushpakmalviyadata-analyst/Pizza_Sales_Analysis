@@ -68,3 +68,12 @@ Business_insights.md
 5. Pivot tables and charts were created for analysis.
 6. An interactive dashboard was developed in Excel to visualize sales performance and customer ordering trends.
 7. Business insights and recommendations were generated based on the analysis.
+
+## Key KPIs Explained
+
+- *Total Revenue* → Total income generated from pizza sales.
+- *Average Order Value* → Average amount spent per order.
+- *Total Orders* → Total number of customer orders placed.
+- *Average Pizzas Per Order* → Average pizzas purchased in each order.
+- *Daily Order Trends* → Analysis of customer ordering patterns across weekdays.
+- *Hourly Sales Trends* → Identification of peak ordering hours.
