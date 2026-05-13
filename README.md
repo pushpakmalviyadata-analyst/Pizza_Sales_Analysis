@@ -77,3 +77,12 @@ Business_insights.md
 - *Average Pizzas Per Order* → Average pizzas purchased in each order.
 - *Daily Order Trends* → Analysis of customer ordering patterns across weekdays.
 - *Hourly Sales Trends* → Identification of peak ordering hours.
+
+## Key KPIs Explained
+
+- *Total Revenue* → Total income generated from pizza sales.
+- *Average Order Value* → Average amount spent per order.
+- *Total Orders* → Total number of customer orders placed.
+- *Average Pizzas Per Order* → Average pizzas purchased in each order.
+- *Daily Order Trends* → Analysis of customer ordering patterns across weekdays.
+- *Hourly Sales Trends* → Identification of peak ordering hours.
