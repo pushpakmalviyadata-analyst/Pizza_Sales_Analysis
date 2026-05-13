@@ -58,3 +58,13 @@ All SQL queries used for data cleaning and analysis are available in queries.sql
 
 Detailed insights are available in:
 Business_insights.md
+
+## Project Workflow
+
+1. Raw pizza sales dataset was imported into SQL Server.
+2. Data cleaning and preprocessing were performed using SQL queries.
+3. Business-related SQL analysis was conducted to identify trends and KPIs.
+4. Cleaned data was loaded into Excel for reporting.
+5. Pivot tables and charts were created for analysis.
+6. An interactive dashboard was developed in Excel to visualize sales performance and customer ordering trends.
+7. Business insights and recommendations were generated based on the analysis.
